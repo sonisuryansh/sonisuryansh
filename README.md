@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Suryansh Soni</h1>
-<h3 align="center">Student of Engineering</h3>
-
-- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sonisuryansh?tab=repositories](https://github.com/sonisuryansh?tab=repositories)
 
