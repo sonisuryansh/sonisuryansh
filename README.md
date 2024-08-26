@@ -3,8 +3,6 @@
 <h3 align="center">
   🎓 Pursuing B.Tech in Internet of Things & Blockchain
 </h3>
-<hr>
-
 <p align="center">
   <a href="https://linkedin.com/in/suryansh-soni-0a244b294/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -13,6 +11,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
+<hr>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
