@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suryansh Soni</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</p>
 <hr>
 <h3 align="center">
   🎓 Pursuing B.Tech in Internet of Things & Blockchain
@@ -12,10 +15,6 @@
   </a>
 </p>
 <hr>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
-</p>
 
 <h2 align="center">💼 My Projects</h2>
 <p align="center">🌟 Explore my latest projects on radar systems, automation, and more <a href="https://github.com/sonisuryansh?tab=repositories">here</a>.</p>
