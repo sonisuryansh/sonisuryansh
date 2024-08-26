@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suryansh Soni</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://your-image-hosting-service.com/path-to-your-custom-svg.svg" alt="Typing SVG" />
 </p>
 <hr>
 <h3 align="center">
