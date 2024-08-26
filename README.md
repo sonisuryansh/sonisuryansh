@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suryansh Soni</h1>
+<br>
+<h3 align="center">
+  🎓 Pursuing B.Tech in Internet of Things & Blockchain
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/suryansh-soni-0a244b294/" target="_blank">
