@@ -12,5 +12,3 @@
 🌟 Other Activities
 🏅 Check out my problem-solving skills on HackerRank.
 💻 Explore my coding challenges on LeetCode.
-Feel free to explore, connect, and collaborate! 🚀
-
