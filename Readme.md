@@ -19,21 +19,19 @@
 <h2 align="center">💼 My Projects</h2>
 <p align="center">🌟 Explore my latest projects on radar systems, automation, and more <a href="https://github.com/sonisuryansh?tab=repositories">here</a>.</p>
 
+
 <h2 align="center">🛠️ Skills & Technologies</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" alt="Solidity" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://img.icons8.com/ios-filled/50/dbms.png" alt="DBMS" width="50" height="50"/>
   <img src="https://img.icons8.com/ios-filled/50/internet-of-things.png" alt="IoT" width="50" height="50"/>
   <img src="https://img.icons8.com/ios-filled/50/blockchain.png" alt="Blockchain" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/50/web-development.png" alt="Web Development" width="50" height="50"/>
 </p>
-
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 <p align="center">
