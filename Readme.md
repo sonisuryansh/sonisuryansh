@@ -50,13 +50,17 @@
   <a href="https://linkedin.com/in/suryansh-soni-0a244b294/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://fb.com/suryansh.verma.10004" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  <a href="https://x.com/sonisuryansh_" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/x--v1.png" alt="X" height="40" width="40" />
+  </a>
+  <a href="https://www.reddit.com/user/Equivalent_Monk_413/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="40" width="40" />
   </a>
   <a href="https://instagram.com/_suryanshsoni/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
+
 
 <h2 align="center">🏆 Badges & Achievements</h2>
 <p align="center">
