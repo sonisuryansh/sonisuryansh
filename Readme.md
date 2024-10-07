@@ -19,13 +19,6 @@
 <h2 align="center">💼 My Projects</h2>
 <p align="center">🌟 Explore my latest projects on radar systems, automation, and more <a href="https://github.com/sonisuryansh?tab=repositories">here</a>.</p>
 
-<h2 align="center">🔒 My Private Projects</h2>
-<p align="center">
-  <a href="https://github.com/sonisuryansh/private-repo" target="_blank">
-    <img src="https://img.shields.io/badge/Add-New%20Project-blue?style=for-the-badge&logo=github" alt="Add New Project" />
-  </a>
-</p>
-
 <h2 align="center">🛠️ Skills & Technologies</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
