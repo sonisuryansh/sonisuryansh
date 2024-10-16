@@ -4,7 +4,7 @@
 
 <h3 align="center">LeetCode Stats</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sonisuryansh?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
