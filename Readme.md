@@ -64,6 +64,5 @@
 
 
 
-
-![Total Commits](https://img.shields.io/github/commit-activity/y/sonisuryansh.svg)
+https://img.shields.io/github/commit-activity/y/sonisuryansh.svg
 
