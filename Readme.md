@@ -24,13 +24,13 @@
 </p>
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://twitter.com/sonisuryansh" target="_blank">
+  <a href="https://twitter.com/sonisuryansh_" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter" width="40" height="40"/>
   </a> | 
-  <a href="https://linkedin.com/in/sonisuryansh" target="_blank">
+  <a href="https://www.linkedin.com/in/suryansh-soni-0a244b294/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a> | 
-  <a href="https://instagram.com/sonisuryansh" target="_blank">
+  <a href="https://www.instagram.com/_suryanshsoni/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
