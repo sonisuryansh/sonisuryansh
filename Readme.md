@@ -2,15 +2,12 @@
 
 ---
 
-<h3 align="center">LeetCode Stats 🤷‍♂️</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sonisuryansh?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
-</p>
+
 
 ---
-<p align="center">
-<h3 align="left">Tech Stack</h3>
-<p align="left"> 
+
+<h3 align="center">Tech Stack</h3>
+<p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -61,6 +58,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonisuryansh&show_icons=true&locale=en" alt="https://github.com/sonisuryansh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonisuryansh&" alt="https://github.com/sonisuryansh" /></p>
+
+---
+<h3 align="right">LeetCode Stats 🤷‍♂️</h3>
+<p align="right">
+  <img src="https://leetcard.jacoblin.cool/sonisuryansh?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+</p>
 
 ---
 
