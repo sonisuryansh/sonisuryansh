@@ -17,16 +17,32 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
+
+
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 </p>
-----
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://x.com/sonisuryansh" target="_blank">X</a> | 
-  <a href="https://linkedin.com/in/sonisuryansh" target="_blank">LinkedIn</a> | 
-  <a href="https://instagram.com/sonisuryansh" target="_blank">Instagram</a>
+  <a href="https://twitter.com/sonisuryansh" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter" width="40" height="40"/>
+  </a> | 
+  <a href="https://linkedin.com/in/sonisuryansh" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a> | 
+  <a href="https://instagram.com/sonisuryansh" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sonisuryansh" target="_blank">
+    <button style="background-color: #0077B5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Connect on LinkedIn</button>
+  </a>
+</p>
+
+
+
 ---
 
 <h3 align="left">Projects</h3>
