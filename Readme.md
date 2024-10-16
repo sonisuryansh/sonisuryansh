@@ -59,8 +59,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonisuryansh&" alt="https://github.com/sonisuryansh" /></p>
 
-<h3 align="right">LeetCode Stats 🤷‍♂️</h3>
-<p align="right">
+---
+
+<h3 align="left">LeetCode Stats 🤷‍♂️</h3>
+<p align="left">
   <img src="https://leetcard.jacoblin.cool/sonisuryansh?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
 
