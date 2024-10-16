@@ -62,3 +62,8 @@
 <h3 align="right">Profile Views</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sonisuryansh&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/sonisuryansh" /> </p>
 
+
+
+
+![Total Commits](https://img.shields.io/github/commit-activity/y/sonisuryansh.svg)
+
