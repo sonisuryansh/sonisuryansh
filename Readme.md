@@ -17,6 +17,7 @@
 ---
 
 <h3 align="center">Connect with Me</h3>
+<br>
 <p align="center">
   <a href="https://twitter.com/sonisuryansh_" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter" width="40" height="40"/>
@@ -28,13 +29,6 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sonisuryansh" target="_blank">
-    <button style="background-color: #0077B5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Connect on LinkedIn</button>
-  </a>
-</p>
-
 ---
 
 <h3 align="left">Projects</h3>
