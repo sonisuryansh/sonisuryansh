@@ -1,4 +1,4 @@
-<h1 align="center">GitHub Profile</h1>
+<h1 align="center">Hey 🖐️! </h1>
 
 ---
 
@@ -25,9 +25,11 @@
 
 <h3 align="left">Projects</h3>
 <ul>
-  <li><strong>Rainsafe:</strong> A drainage management system for real-time data on water drainage. <a href="https://github.com/sonisuryansh/rainsafe" target="_blank">Repo Link</li>
-  <li><strong>Project 2:VASSH is a first-year project that clones the BBD University portal. It provides students with practice sets, academic resources, and detailed information about the university. Designed to enhance learning and streamline access to essential materials, VASSH supports students in preparing for their academic journey. <a href="https://github.com/sonisuryansh/The_Vassh-Clone_of_BBD_University_website" target="_blank">Repo Link</a></li>
-  <li><strong>Project 3: adar with Laser-Guided System project! This innovative system combines radar technology with a laser-guided mechanism to create a powerful tool for real-time object detection and response. Whether you're interested in security applications, automated guidance, or simply exploring the fascinating world of sensors and robotics, this project offers a hands-on experience with cutting-edge technology <a href="https://github.com/sonisuryansh/Radar-with-Laser-Guided-System-" target="_blank">Repo Link</a></li>
+  <li><strong>Rainsafe: Rainsafe is a smart drainage management system aimed at preventing urban flooding. It offers real-time data, maintenance funding, public queries, and drainage-related news. Presented at a tech startup event, Rainsafe secured third prize among 30+ teams, representing BBD University at SMS College, Lucknow.<a href="https://sonisuryansh.github.io/RainSafe/" target="_blank">Website Link</li>
+    
+  <li><strong>Project 2: VASSH is a first-year project that clones the BBD University portal. It provides students with practice sets, academic resources, and detailed information about the university. Designed to enhance learning and streamline access to essential materials, VASSH supports students in preparing for their academic journey. <a href="https://sonisuryansh.github.io/The_Vassh-Clone_of_BBD_University_website/" target="_blank">Website Link</a></li>
+    
+  <li><strong>Project 3: Radar with Laser-Guided System project! This innovative system combines radar technology with a laser-guided mechanism to create a powerful tool for real-time object detection and response. Whether you're interested in security applications, automated guidance, or simply exploring the fascinating world of sensors and robotics, this project offers a hands-on experience with cutting-edge technology <a href="https://github.com/sonisuryansh/Radar-with-Laser-Guided-System-" target="_blank">Repo Link</a></li>
 </ul>
 
 ---
