@@ -26,7 +26,7 @@
 <h3 align="left">Projects</h3>
 <ul>
   <li><strong>Rainsafe:</strong> A drainage management system for real-time data on water drainage. <a href="https://github.com/sonisuryansh/rainsafe" target="_blank">Website Link :-  <a href="https://sonisuryansh.github.io/RainSafe/" target="_blank"></a></li>
-  <li><strong>Project 2:VASSH is a first-year project that clones the BBD University portal. It provides students with practice sets, academic resources, and detailed information about the university. Designed to enhance learning and streamline access to essential materials, VASSH supports students in preparing for their academic journey. <a href="https://github.com/sonisuryansh/project-2" target="_blank">https://github.com/sonisuryansh/The_Vassh-Clone_of_BBD_University_website</a></li>
+  <li><strong>Project 2:VASSH is a first-year project that clones the BBD University portal. It provides students with practice sets, academic resources, and detailed information about the university. Designed to enhance learning and streamline access to essential materials, VASSH supports students in preparing for their academic journey. <a href="https://github.com/sonisuryansh/project-2" target="_blank">The Vashh</a></li>
   <li><strong>Project 3:</strong> [Brief description of another project]. <a href="https://github.com/your-github-username/project-3" target="_blank">[Repo Link]</a></li>
 </ul>
 
