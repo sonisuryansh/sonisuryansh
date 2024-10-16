@@ -1,8 +1,6 @@
 <h1 align="center">Hey 🖐️! </h1>
-
----
-
-
+<h3 align="right">Profile Views</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sonisuryansh&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/sonisuryansh" /> </p>
 
 ---
 
@@ -68,5 +66,3 @@
 
 ---
 
-<h3 align="center">Profile Views</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sonisuryansh&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/sonisuryansh" /> </p>
