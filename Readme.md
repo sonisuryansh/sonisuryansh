@@ -35,9 +35,7 @@
 <h3 align="left">Projects</h3>
 <ul>
   <li><strong> Project 1 </strong>:-  Rainsafe is a smart drainage management system aimed at preventing urban flooding. It offers real-time data, maintenance funding, public queries, and drainage-related news. Presented at a tech startup event, Rainsafe secured third prize among 30+ teams, representing BBD University at SMS College, Lucknow.<a href="https://sonisuryansh.github.io/RainSafe/" target="_blank">Website Link</li>
-    
   <li><strong> Project 2 </strong>:- VASSH is a first-year project that clones the BBD University portal. It provides students with practice sets, academic resources, and detailed information about the university. Designed to enhance learning and streamline access to essential materials, VASSH supports students in preparing for their academic journey. <a href="https://sonisuryansh.github.io/The_Vassh-Clone_of_BBD_University_website/" target="_blank">Website Link</a></li>
-    
   <li><strong> Project 3</strong>:- Radar with Laser-Guided System project! This innovative system combines radar technology with a laser-guided mechanism to create a powerful tool for real-time object detection and response. Whether you're interested in security applications, automated guidance, or simply exploring the fascinating world of sensors and robotics, this project offers a hands-on experience with cutting-edge technology <a href="https://github.com/sonisuryansh/Radar-with-Laser-Guided-System-" target="_blank">Repo Link</a></li>
 </ul>
 
@@ -45,24 +43,14 @@
 
 <h3 align="center">GitHub Stats 😊</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonisuryansh&show_icons=true&locale=en&layout=compact" alt="https://github.com/sonisuryansh" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonisuryansh&show_icons=true&locale=en" alt="https://github.com/sonisuryansh" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonisuryansh&" alt="https://github.com/sonisuryansh" /></p>
 
 ---
-
 <h3 align="center">LeetCode Stats 🤷‍♂️</h3>
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/sonisuryansh?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
-
 ---
-
 <h3 align="right">Profile Views</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sonisuryansh&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/sonisuryansh" /> </p>
-
-
-
-https://img.shields.io/github/commit-activity/y/sonisuryansh.svg
-
