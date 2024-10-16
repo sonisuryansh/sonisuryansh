@@ -47,10 +47,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonisuryansh&" alt="https://github.com/sonisuryansh" /></p>
 
 ---
+
 <h3 align="center">LeetCode Stats 🤷‍♂️</h3>
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/sonisuryansh?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
+
 ---
+
 <h3 align="right">Profile Views</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sonisuryansh&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/sonisuryansh" /> </p>
