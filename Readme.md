@@ -1,5 +1,14 @@
 <h1 align="center">GitHub Profile</h1>
 
+---
+
+<h3 align="center">LeetCode Stats</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
 <h3 align="left">Tech Stack</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -33,3 +42,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="your-github-username" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="your-github-username" /></p>
+
+---
+
+<h3 align="center">Profile Views</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
