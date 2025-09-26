@@ -79,3 +79,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonisuryansh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dark Green Stars Background" width="100%" />
+</p>
