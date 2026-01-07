@@ -27,16 +27,17 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonisuryansh/" target="_blank">
+  <a href="https://www.linkedin.com/in/sonisuryansh/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_suryanshsoni/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/_suryanshsoni/?hl=en" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:sonisuryansh53@gmail.com" target="_blank">
+  <a href="mailto:sonisuryansh53@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 <hr/>
 
