@@ -81,12 +81,12 @@
 <hr/>
 
 <!-- Project 3 -->
-<h4>📚 StoryVerse – NFT Marketplace (GenIgnite Pre-Hackathon)</h4>
+<h4>📚 EpicMint – NFT Marketplace (GenIgnite Pre-Hackathon)</h4>
 <p>
   <em>Blockchain-Based NFT Marketplace for Stories, Comics & Poems</em>
 </p>
 <p>
-  StoryVerse is a Web3 marketplace where creative content is tokenized as NFTs,
+  EpicMint is a Web3 marketplace where creative content is tokenized as NFTs,
   enabling true ownership, transparent royalties, and direct creator–reader interaction.
 </p>
 
