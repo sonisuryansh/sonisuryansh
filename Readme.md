@@ -173,6 +173,12 @@
 
 <hr/>
 
+![Snake animation](https://raw.githubusercontent.com/sonisuryansh/sonisuryansh/output/github-contribution-grid-snake-dark.svg)
+
+<hr/>
+
+
+
 <h3 align="center">👀 Profile Views</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonisuryansh&label=Profile%20views&color=0e75b6&style=flat" />
