@@ -1,32 +1,68 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00E6A8&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Suryansh+Soni;A+passionate+developer+exploring+cutting-edge+tech;Building+impactful+and+meaningful+projects)](https://git.io/typing-svg)
 <img align="right" height="160" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" />
+
 <div align="left">
   Turning decentralized ideas into working systems.
+</div>
+<br>
+<br>
+<br>
+<hr/>
+
+<div align="center">
+<h3 >💻 Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,solidity,js,postgres,mongodb,ethereum,docker,kubernetes,git,arduino&theme=dark" />
+</p>
 </div>
 
 <hr/>
 
-<h3 align="center">💻 Tech Stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,solidity,js,postgres,mongodb,ethereum,docker,kubernetes,git,arduino&theme=dark" />
-</p>
+<h3 align="center">📌 Developer Snapshot</h3>
+<table align="center">
+  <tr>
+    <td><strong>👨‍💻 Role</strong></td>
+    <td>Backend & Web3 Developer</td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Core Focus</strong></td>
+    <td>Blockchain, Smart Contracts, System Design, Web Development</td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Strengths</strong></td>
+    <td>Solidity, Java, Ethereum, ERC Standards, Databases</td>
+  </tr>
+  <tr>
+    <td><strong>🚀 Interests</strong></td>
+    <td>Decentralized Systems, DevOps, IoT</td>
+  </tr>
+  <tr>
+    <td><strong>🌍 Open To</strong></td>
+    <td>Internships, Hackathons, Open Source</td>
+  </tr>
+</table>
 
 <hr/>
 
-<h3 align="center">📊 GitHub Overview</h3>
-
-<hr/>
-
-<p align="center">
+<div align="center">
+<h3 >📊 GitHub Overview</h3>
+<p >
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonisuryansh&theme=monokai"
     alt="GitHub Profile Summary"
   />
 </p>
+</div>
 
 <hr/>
 
-<h3 align="center">🚀 Featured Projects</h3>
+<div align="center">
+<h3>🚀 Featured Projects</h3>
+</div>
 <!-- Project 1 -->
 <h4>🐦 TweeterContract – Decentralized Social Protocol</h4>
 <p>
@@ -121,30 +157,12 @@
 
 <hr/>
 
-<h3 align="center">📌 Developer Snapshot</h3>
+![Snake animation](https://raw.githubusercontent.com/sonisuryansh/sonisuryansh/output/github-contribution-grid-snake-dark.svg)
 
-<table align="center">
-  <tr>
-    <td><strong>👨‍💻 Role</strong></td>
-    <td>Backend & Web3 Developer</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 Core Focus</strong></td>
-    <td>Blockchain, Smart Contracts, System Design ,Web-Dev</td>
-  </tr>
-  <tr>
-    <td><strong>⚙️ Strengths</strong></td>
-    <td>Solidity, Java, Ethereum, ERC20, Databases</td>
-  </tr>
-  <tr>
-    <td><strong>🚀 Interests</strong></td>
-    <td>Decentralized Systems, DevOps, IoT</td>
-  </tr>
-  <tr>
-    <td><strong>🌍 Open To</strong></td>
-    <td>Internships, Hackathons, Open-Source</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="35%" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="35%" />
+</p>
 
 <hr/>
 
@@ -160,33 +178,24 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
+   <a href="mailto:sonisuryansh53@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
   <a href="https://www.linkedin.com/in/sonisuryansh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="https://www.instagram.com/_suryanshsoni/?hl=en" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
-  <a href="mailto:sonisuryansh53@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>
 </p>
 
 <hr/>
-
-![Snake animation](https://raw.githubusercontent.com/sonisuryansh/sonisuryansh/output/github-contribution-grid-snake-dark.svg)
-
-<hr/>
-
-
 
 <h3 align="center">👀 Profile Views</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonisuryansh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<hr/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="35%" />
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="35%" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
