@@ -20,7 +20,7 @@
 
 </div>
 
-I'm a software developer passionate about building scalable backend systems, decentralized applications, and modern web solutions.
+I'm a Backend & Blockchain Developer passionate about building scalable APIs, decentralized applications, and cloud-native systems. I enjoy solving real-world problems through clean architecture, modern technologies, and open-source collaboration.
 
 - 🚀 Backend & Blockchain Developer
 - 🌱 Currently exploring **DevOps**, **AWS Cloud**, **AI/ML**, and **Distributed Systems**
@@ -81,37 +81,26 @@ I'm a software developer passionate about building scalable backend systems, dec
 
 <div align="center">
 
-# 📊 GitHub Analytics
+# 📈 GitHub Summary
+
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonisuryansh&theme=github_dark"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonisuryansh&theme=github_dark"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonisuryansh&theme=github_dark"/>
+</td>
+</tr>
+</table>
 
 </div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonisuryansh&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonisuryansh&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sonisuryansh&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Contribution Graph
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonisuryansh&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
 
 ---
 
