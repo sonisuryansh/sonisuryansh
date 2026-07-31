@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Suryansh%20Soni&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20✦%20Blockchain%20Developer%20✦%20Full%20Stack%20Engineer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Suryansh%20Soni&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20✦%20Blockchain%20Developer&descAlignY=58&descSize=18"/>
 
 <br/>
 
@@ -15,17 +15,17 @@
 ---
 
 <div align="center">
-  
-## 👨🏻‍💻 About Me
+
+# 👨🏻‍💻 About Me
 
 </div>
 
-I'm a Backend & Blockchain Developer passionate about building scalable APIs, decentralized applications, and cloud-native systems. I enjoy solving real-world problems through clean architecture, modern technologies, and open-source collaboration.
+I'm a **Backend & Blockchain Developer** passionate about building scalable APIs, decentralized applications, cloud-native systems, and distributed backend infrastructure.
 
 - 🚀 Backend & Blockchain Developer
 - 🌱 Currently exploring **DevOps**, **AWS Cloud**, **AI/ML**, and **Distributed Systems**
-- 💡 Passionate about writing clean, maintainable, and scalable software
-- 🤝 Open to collaborating on Backend, Blockchain, and Open Source projects
+- 💡 Passionate about building scalable, secure, and maintainable software
+- 🤝 Open to collaborating on Backend, Blockchain, Cloud, and Open Source projects
 - 📍 Based in India
 
 ---
@@ -56,11 +56,12 @@ I'm a Backend & Blockchain Developer passionate about building scalable APIs, de
 
 | Category | Technologies |
 |-----------|--------------|
-| **Languages** | JavaScript • TypeScript • Solidity • C++ |
-| **Frontend** | React • Next.js • Tailwind CSS • HTML5 • CSS3 |
-| **Backend** | Node.js • Express.js • REST APIs • MongoDB |
+| **Languages** | JavaScript • TypeScript • Java • C++ • Solidity |
+| **Backend** | Node.js • Express.js • REST APIs • JWT • Authentication • MongoDB |
 | **Blockchain** | Ethereum • Solidity • Hardhat • Ethers.js • Web3.js |
-| **Tools & Platforms** | Git • GitHub • Docker • Postman • VS Code |
+| **Cloud & DevOps** | Docker • AWS • GitHub Actions |
+| **Databases** | MongoDB • MySQL |
+| **Tools** | Git • GitHub • Docker • Postman • VS Code • Linux |
 
 ---
 
@@ -72,10 +73,10 @@ I'm a Backend & Blockchain Developer passionate about building scalable APIs, de
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| 🗳️ **Voting Smart Contract** | Decentralized blockchain voting application | Solidity • Hardhat |
-| 👛 **Wallet Smart Contract** | Secure Ethereum wallet built with Solidity | Solidity |
-| 🐦 **Twitter Smart Contract** | Decentralized Twitter-like application | Solidity • Web3.js |
-| 📡 **Radar with Laser Guided System** | Hardware & Software integration for object detection | C++ Java |
+| 🚀 **GovChain** | AI-powered government scheme recommendation platform with secure backend APIs and intelligent eligibility matching | Node.js • Express.js • MongoDB • Gemini AI |
+| 🎨 **EpicMint** | NFT marketplace with wallet authentication, IPFS integration, secure backend services, and smart contracts | Node.js • MongoDB • Solidity • Hardhat |
+| 🗳️ **Voting Smart Contract** | Decentralized blockchain voting application built on Ethereum | Solidity • Hardhat |
+| 📡 **Radar with Laser Guided System** | Hardware and software integration for object detection using Arduino and laser guidance | C++ • Arduino |
 
 ---
 
@@ -124,8 +125,8 @@ I'm a Backend & Blockchain Developer passionate about building scalable APIs, de
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&to=sonisuryansh53@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:sonisuryansh53@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
